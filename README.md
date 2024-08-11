@@ -1,6 +1,9 @@
 # weathetr_app1
 
 Picturs of app Ui
+![image](https://github.com/user-attachments/assets/f5748f0a-38e0-425f-aa38-238e3abf757f)
+![image](https://github.com/user-attachments/assets/96575134-4cdf-447a-96e8-ca96f2e1aa8d)
+![image](https://github.com/user-attachments/assets/4ac48f96-8b73-45c8-92fa-cbd5b94822a4)
 
 
 ## Getting Started
