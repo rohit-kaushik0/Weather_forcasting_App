@@ -1,6 +1,10 @@
 # weathetr_app1
 
-A new Flutter project.
+Picturs of app Ui
+![image](https://github.com/user-attachments/assets/17778b71-b53e-4cdb-9f6a-dd3293c6df01)
+![image](https://github.com/user-attachments/assets/b31237ac-7159-4a1e-a577-46938428a5ec)
+![image](https://github.com/user-attachments/assets/83d9167d-ae2e-44b0-850a-6d8d311830d7)
+
 
 ## Getting Started
 
